@@ -6,7 +6,6 @@ Course context found in the included documents:
 
 - Course: `COSC 1437`
 - Institution: Alamo Colleges
-- Campus: not identified in the available source files or documents
 - Term: Spring 2024
 
 This repository keeps the coursework source close to its original assignment form while organizing it for public review. The original folder included duplicate ZIP submissions, corrected resubmissions, screenshots, and reports; the tracked repository focuses on readable source snapshots, relevant screenshots, and supporting documents.
