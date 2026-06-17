@@ -1,0 +1,14 @@
+// Programmer: Devin Thomas
+// Date: 04/01/2024
+// Module X, Lab Y
+// Purpose:
+
+// Purpose: Create a main program which utilizes the Sport class, 
+// receives input from the user and displays the information
+
+// Programmer: Devin Thomas
+// Date: 04/01/2024
+// Module 3, Lab 2
+// Purpose: define a class which represents a Student
+// Purpose: define a class which represents a Parking Permit
+// Purpose: define a quick header function to display information about the program in which this is used

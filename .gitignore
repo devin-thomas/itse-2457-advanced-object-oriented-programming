@@ -1,0 +1,32 @@
+# Java build outputs
+build/
+out/
+target/
+*.class
+
+# IDE and local metadata
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Original copied submission bundles and staging folders.
+# These remain locally for reference but are not part of the polished GitHub repo.
+*.zip
+/CLO2/
+/EmployeeLab/
+/ParkingPermitLab/
+/VideoGameLab/
+/module2_corrected/
+/module3_corrected/
+/module4/
+/module5/
+/MPG.java
+/RNG.java
+/headerinfo.txt
+/inverted_image.png
+/module1lab1*.png
+/module 1 lab 3*.png
+/Screenshot 2024-*.png
+/Report on*.docx
