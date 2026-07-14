@@ -1,10 +1,11 @@
-# Java Object-Oriented Programming Coursework
+# ITSE 2457: Advanced Object-Oriented Programming
 
-Portfolio archive for an Object-Oriented Programming course in Java, completed in Spring 2024.
+Portfolio archive of Java coursework completed in Spring 2024 for `ITSE 2457: Advanced Object-Oriented Programming`.
 
 Course context found in the included documents:
 
-- Course: `COSC 1437`
+- Course: `ITSE 2457: Advanced Object-Oriented Programming`
+- Historical course label in source materials: `COSC 1437`
 - Institution: Alamo Colleges
 - Term: Spring 2024
 
